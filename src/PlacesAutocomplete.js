@@ -383,6 +383,7 @@ PlacesAutocomplete.propTypes = {
     offset: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
     radius: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
     types: PropTypes.array,
+    locationRestriction: PropTypes.object,
   }),
   debounce: PropTypes.number,
   highlightFirstSuggestion: PropTypes.bool,
