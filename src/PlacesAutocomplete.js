@@ -108,7 +108,7 @@ class PlacesAutocomplete extends React.Component {
       const southernAfricaBounds = {
         north: 7.47168538221605,
         south: -36.47168538221605,
-        east: 41.495389062499996,
+        east: 60.495389062499996,
         west: 7.745389062499997,
       };
 
